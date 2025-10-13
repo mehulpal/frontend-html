@@ -1,2 +1,2 @@
 # frontend-html
-for htmp testing
+for html testing
